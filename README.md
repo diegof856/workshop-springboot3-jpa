@@ -10,7 +10,7 @@ Postman
 Maven
 ```
 **Modelo de dominio:**
-![imagem de dominio]()
+![imagem de dominio](https://github.com/diegof856/workshop-springboot3-jpa/blob/main/assets/img_dominio.png)
 ## Pré-requisitos
 
 - Certifique-se de que o **JDK 17** ou superior está instalado em sua máquina.
